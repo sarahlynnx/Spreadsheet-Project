@@ -1,3 +1,7 @@
+Spreadsheet allows users to input formulas and values into cells to perform basic arithmetic operations such as addition (+), subtraction (-), multiplication (*), and division (/) on numerical values.
+
+Function Calls: Users can call predefined functions on a range of cells. Functions include sum, average, median, even, someeven, everyeven, firsttwo, lasttwo, has2, increment, random, range, and noduplicates.
+
 Spreadsheet Preview
 
 <img width="655" alt="Screenshot 2024-01-20 at 2 37 24 PM" src="https://github.com/sarahlynnx/Spreadsheet-Project/assets/142362888/79a3cad4-b895-4752-86a2-dd157755f906">
